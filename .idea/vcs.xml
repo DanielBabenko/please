@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../52" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../AntTester" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../again/tired" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../another" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../demo4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../demo6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react-test2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react-test3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react-test5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../react_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-lab-4/web-lab-4-front" vcs="Git" />
+  </component>
+</project>
